@@ -1,7 +1,7 @@
 {
 	"FileVersion" : 3,
 	"Version" : 1,
-	"VersionName" : "1.0",
+	"VersionName" : "1.1",
 	"FriendlyName" : "Victory UMG",
 	"Description" : "Rama's UMG Widgets for You!",
 	"Category" : "Victory Plugin",
@@ -24,8 +24,7 @@
 			"WhitelistPlatforms" :
 			[
 				"Win64",
-				"Win32",
-				"HTML5"
+				"Win32"
 			]
 		}
 	]

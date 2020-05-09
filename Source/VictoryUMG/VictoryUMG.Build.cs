@@ -21,9 +21,8 @@ public class VictoryUMG : ModuleRules
 				"RenderCore",		 
 				"UMG", 
 				"Slate", 
-				"SlateCore", 
-                "APPFRAMEWORK" //for color picker! -Rama
-		
+				"SlateCore",
+				"AppFramework" //				"APPFRAMEWORK" //for color picker! -Rama
 			}
 		);
 		
